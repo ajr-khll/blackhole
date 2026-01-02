@@ -1,0 +1,3 @@
+/Users/aj/Documents/projects/blackhole/build/CMakeFiles/app.dir
+/Users/aj/Documents/projects/blackhole/build/CMakeFiles/edit_cache.dir
+/Users/aj/Documents/projects/blackhole/build/CMakeFiles/rebuild_cache.dir
