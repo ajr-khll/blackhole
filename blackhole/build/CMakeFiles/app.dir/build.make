@@ -112,6 +112,7 @@ app: CMakeFiles/app.dir/src/main.cpp.o
 app: CMakeFiles/app.dir/src/glad.c.o
 app: CMakeFiles/app.dir/build.make
 app: /opt/homebrew/lib/libglfw.3.4.dylib
+app: /opt/homebrew/lib/libglm.dylib
 app: CMakeFiles/app.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/aj/Documents/projects/blackhole/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable app"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/app.dir/link.txt --verbose=$(VERBOSE)

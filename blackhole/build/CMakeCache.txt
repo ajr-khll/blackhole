@@ -231,6 +231,9 @@ blackhole_SOURCE_DIR:STATIC=/Users/aj/Documents/projects/blackhole
 //The directory containing a CMake configuration file for glfw3.
 glfw3_DIR:PATH=/opt/homebrew/lib/cmake/glfw3
 
+//The directory containing a CMake configuration file for glm.
+glm_DIR:PATH=/opt/homebrew/share/glm
+
 
 ########################
 # INTERNAL cache entries
